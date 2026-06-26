@@ -1,10 +1,10 @@
 # CTF Write-Up: Strength Calculator
 
-**Challenge Name:** Strength Calculator
-**Category:** Web Security
-**Difficulty:** Hard
-**Platform:** CyberTalents
-**Challenge Link:** https://cybertalents.com/challenges/web/strength-calculator
+**Challenge Name:** Strength Calculator <br>
+**Category:** Web Security<br>
+**Difficulty:** Hard<br>
+**Platform:** CyberTalents<br>
+**Challenge Link:** https://cybertalents.com/challenges/web/strength-calculator<br>
 
 
 
