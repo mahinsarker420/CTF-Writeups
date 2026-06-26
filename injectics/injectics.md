@@ -1,10 +1,10 @@
 # TryHackMe Write-Up: Injectics
 
-**Challenge Name:** Injectics
-**Category:** Web Injection (SQLi + SSTI)
-**Difficulty:** Medium
-**Platform:** TryHackMe
-**Room Link:** https://tryhackme.com/room/injectics
+**Challenge Name:** Injectics <br>
+**Category:** Web Injection (SQLi + SSTI) <br>
+**Difficulty:** Medium<br>
+**Platform:** TryHackMe<br>
+**Room Link:** https://tryhackme.com/room/injectics<br>
 
 ## Overview
 
